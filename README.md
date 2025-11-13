@@ -18,5 +18,5 @@
 
 1. Скачайте файл игры:
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone (https://github.com/novikovartyom2-a11y/Game-cows-and-bulls)
 cd bulls-cows
